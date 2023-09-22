@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>практична 2</title>
+    </head>
+    <body>
+        <table cellpadding="10px">
+            <tr>
+                <p>Enter vour first name, last name and age <br>
+                 <form >
+                    <input placeholder="First name" type="text">
+                    <input placeholder="Last name" type="text">
+                    <input placeholder="Age" type="text">
+                    </form>
+                    
+                </p>
+                 
+            </tr>
+            <tr>
+            
+            </tr>
+            <tr >
+                <td width="400px">
+                    <p>Culpa cupidatat labore eu excepteur consequat amet <br>
+                        reprehenderit. Est nulla aliquip tempor veniam consequat <br>
+                        cillum irure. Consequat ipsum cillum ex est elit consectetur <br>
+                        sint sunt nostrud qui magna officia laborum?
+
+                    </p>
+
+                </td>
+                <td>
+                    
+                   <p>
+                
+                        
+                    <input name=i type="radio">
+                    Answer 1 <br>
+                    <input name=i type="radio">
+                    Answer 2 <br>
+                    <input name=i type="radio">
+                    Answer 3 <br>
+                    <input name=i type="radio">
+                    Answer 4 <br>
+                
+                   
+                   </p>
+                    
+                </td>
+            </tr>
+            <tr>
+                <td width="400px">
+                    Pariatur commodo labore id magna proident duis est enim <br>
+                    irure officia?
+                </td>
+                <td>
+                    <p> 
+                        <input name=a type="radio">
+                        Answer 1 <br>
+                        <input name=a type="radio">
+                        Answer 2 <br>
+                        <input name=a type="radio">
+                        Answer 3 <br>
+                        <input name=a type="radio">
+                        Answer 4 <br>
+                       </p>
+
+                </td>
+            </tr>
+            <tr>
+                <td width="400px">
+                    <p>Occaecat ut cillum amet veniam est? <br>
+                        > Select one answer from each group  
+                    </p>
+                </td>
+                <td>
+                    <p> 
+                        <input name=b type="radio">
+                        Answer 1 <br>
+                        <input name=b type="radio">
+                        Answer 2 <br>
+                        <input name=b type="radio">
+                        Answer 3 <br>
+                        <input name=b type="radio">
+                        Answer 4 <br>
+                       </p>
+                </td>
+
+                <td >
+                    <p> 
+                        <input name=b type="radio">
+                        Answer 5 <br>
+                        <input name=b type="radio">
+                        Answer 6 <br>
+                        <input name=b type="radio">
+                        Answer 7 <br>
+                        <input name=b type="radio">
+                        Answer 8 <br>
+                       </p>
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                 <p>Magna dolore adipisicing eu velit dolor nulla?</p>   
+                </td>
+                <td>
+                    <p> 
+                        <input name=no type="checkbox">
+                        Answer 1 <br>
+                        <input name=no type="checkbox">
+                        Answer 2 <br>
+                        <input name=no type="checkbox">
+                        Answer 3 <br>
+                        <input name=no type="checkbox">
+                        Answer 4 <br>
+                       </p>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
